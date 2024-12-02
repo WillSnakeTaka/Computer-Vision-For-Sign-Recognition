@@ -4,10 +4,10 @@
 https://docs.google.com/document/d/1ewkkNGxOKf1M2MNxaz6vd0o2AKppRD_v_z_kCHBdar4/edit?usp=sharing
 
 **Our Presentation Page**! 🐍: 
-https://willsnaketaka.github.io/CVProject/
+[Visit Our Presentation Page](https://willsnaketaka.github.io/CVProject/)
 
 **Our Prototype Links**! 🐍: 
-https://hiworld-npd0.onrender.com/
+[Visit Rendor App site(please wait 50s~2 min sometimes)](https://hiworld-npd0.onrender.com/)
 
 ---
 
