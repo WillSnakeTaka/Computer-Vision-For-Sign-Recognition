@@ -61,6 +61,7 @@ graph TD;
     B --> C[MediaPipe: Hand Detection];
     C --> D[TensorFlow: Gesture Classification];
     D --> E[Output: Text & Speech];
+```
 
 ## 📊 System Workflow
 
@@ -70,6 +71,9 @@ graph TD;
     B --> C[MediaPipe: Hand Detection];
     C --> D[TensorFlow: Gesture Classification];
     D --> E[Output: Text & Speech];
+```
+
+
 
 
 
