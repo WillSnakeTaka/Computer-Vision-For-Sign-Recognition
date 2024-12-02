@@ -1,17 +1,24 @@
 # 🌟 Signalyze: Sign Language to Text-to-Speech
 
-Bridging communication gaps with **AI-driven Sign Language Recognition**! 🚀
+**Our Designing Document Here**! 🚀 :
+https://docs.google.com/document/d/1ewkkNGxOKf1M2MNxaz6vd0o2AKppRD_v_z_kCHBdar4/edit?usp=sharing
 
 ---
 
 ## 📖 Overview
 
-Signalyze is a cutting-edge application that recognizes sign language gestures in real-time and converts them into **text** and **speech**, enhancing communication for the deaf and hard-of-hearing communities.
+Signalyze is an application that recognizes sign language gestures in webcam captions and then converts them into texts and speech, which will be benefitial for the deaf and hard-of-hearing communities.
 
 ### 🧩 Key Features:
-- **Real-Time Gesture Recognition**: Capture and classify hand gestures instantly.
-- **Text and Speech Output**: Convert recognized gestures into human-readable text and synthesized speech.
-- **User-Friendly Interface**: Simple and intuitive app for seamless interaction.
+- **Real-Time Gesture Recognition**: Capture and classify hand gestures instantly through Flask app, and webcap caption.
+- **Text and Speech Output**: Convert recognized gestures into plain text and converted it into speech.
+- **Flask app**: Simple and flexible app for presentation.
+
+- Rigoberto: Cleaning data -> Change data to H5; Text to speech through hugging face Interface; Application integration
+- Marco: OpenCV data training; Google lab testing
+- William: creating a model to test on different applications
+
+
 
 ---
 
@@ -29,7 +36,7 @@ Signalyze is a cutting-edge application that recognizes sign language gestures i
 
 ---
 
-## 🔬 Methodology
+## 🔬 Methods:
 
 1. **Data Preparation**:
    - Use datasets like Sign Language MNIST (via Kaggle).
@@ -39,12 +46,12 @@ Signalyze is a cutting-edge application that recognizes sign language gestures i
    - Build and train a **Convolutional Neural Network (CNN)** for gesture classification.
    - Evaluate and fine-tune the model for real-world performance.
 
-3. **Real-Time Processing**:
-   - Implement video streaming via OpenCV.
+3. **Applying blueprints into practice**:
+   - Using flask and html to call OpenCV.
    - Use MediaPipe for efficient hand tracking and gesture recognition.
 
 4. **Text-to-Speech Integration**:
-   - Map classified gestures to corresponding text.
+   - Using pretraining llm for hugging,  .
    - Convert text into speech using gTTS or Pyttsx3.
 
 5. **App Deployment**:
