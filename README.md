@@ -22,11 +22,13 @@ Signalyze is an application that recognizes sign language gestures in webcam cap
 
 | Technology      | Purpose                                |
 |------------------|----------------------------------------|
-| **OpenCV**       | Real-time image and video processing   |
+| **OpenCV**       | Image and Video processing   |
 | **MediaPipe**    | Hand tracking and gesture detection    |
 | **TensorFlow**   | Deep learning model for gesture recognition |
 | **Keras**        | Simplified model building and training |
 | **gTTS/Pyttsx3** | Text-to-speech synthesis               |
+| **Subprocess**   | Text-to-speech MacOs version              |
+| **Hugging Face** | Text-to-speech application              |
 | **Flask**        | Backend for app integration            |
 | **NumPy**        | Data manipulation                     |
 
