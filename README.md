@@ -76,12 +76,13 @@ graph TD;
 
 ```mermaid
 graph TD;
-    A[import Libraries] --> B[Data Loading];
-    B --> C[Preprocess Input Test];
-    C --> D[Pass Data to Speech, convert to H5 files];
-    D --> E[Generate Speech Audio];
-    E --> F[Modify and Save Audio Files];
+    A[Import Libraries] --> B[Load Pretrained Models];
+    B --> C[Load Dataset <br> Speaker Embeddings]
+    C --> D[Process Input Text <br> (Using Processor)]
+    D --> E[Generate Speech Audio <br> (SpeechT5 Model & Vocoder)]
+    E --> F[Save Audio File<br> (.wav)]
 ```
+
 
 
 
