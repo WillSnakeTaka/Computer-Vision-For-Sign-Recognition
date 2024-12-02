@@ -1,0 +1,12 @@
+numpy
+torch
+transformers
+diffusers
+accelerate
+librosa
+soundfile
+streamlit
+gtts
+datasets
+soundfile
+sentencepiece
