@@ -63,7 +63,7 @@ graph TD;
     D --> E[Output: Text & Speech];
 ```
 
-## 📊 System Workflow
+## 📊 Text to Speech
 
 ```mermaid
 graph TD;
