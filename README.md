@@ -61,4 +61,12 @@ graph TD;
     D --> E[Output: Text & Speech];
 
 
+```mermaid
+graph TD;
+    A[Input: Camera Feed] --> B[OpenCV: Frame Preprocessing];
+    B --> C[MediaPipe: Hand Detection];
+    C --> D[TensorFlow: Gesture Classification];
+    D --> E[Output: Text & Speech];
+
+
 
