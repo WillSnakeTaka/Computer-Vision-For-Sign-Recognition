@@ -14,10 +14,6 @@ Signalyze is an application that recognizes sign language gestures in webcam cap
 - **Text and Speech Output**: Convert recognized gestures into plain text and converted it into speech.
 - **Flask app**: Simple and flexible app for presentation.
 
-- Rigoberto: Cleaning data -> Change data to H5; Text to speech through hugging face Interface; Application integration
-- Marco: OpenCV data training; Google lab testing
-- William: creating a model to test on different applications
-
 
 
 ---
@@ -35,6 +31,24 @@ Signalyze is an application that recognizes sign language gestures in webcam cap
 | **NumPy**        | Data manipulation                     |
 
 ---
+
+Setup
+
+Navigate to the directory where you want to clone/run/save the application:
+
+cd your_selected_directory
+Clone this repository:
+
+git clone https://github.com/.git
+Navigate to the Signalyze git repository:
+
+cd Signalyzen
+Use Python3 3.10 version in the cloned repository folder:
+
+pyenv local 3.10
+Create virtual environment in the cloned repository folder:
+
+python -m venv .app.py
 
 ## 🔬 Methods:
 
