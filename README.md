@@ -39,7 +39,7 @@ Navigate to the directory where you want to clone/run/save the application:
 cd your_selected_directory
 Clone this repository:
 
-git clone https://github.com/.git
+git clone [https://github.com/.git](https://github.com/WillSnakeTaka/Signalyze.git)
 Navigate to the Signalyze git repository:
 
 cd Signalyzen
