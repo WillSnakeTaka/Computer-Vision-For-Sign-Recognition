@@ -50,29 +50,6 @@ Create virtual environment in the cloned repository folder:
 
 python -m venv .app.py
 
-## 🔬 Methods:
-
-1. **Data Preparation**:
-   - Use datasets like Sign Language MNIST (via Kaggle).
-   - Normalize and augment data for enhanced model performance.
-
-2. **Model Development**:
-   - Build and train a **Convolutional Neural Network (CNN)** for gesture classification.
-   - Evaluate and fine-tune the model for real-world performance.
-
-3. **Applying blueprints into practice**:
-   - Using flask and html to call OpenCV.
-   - Use MediaPipe for efficient hand tracking and gesture recognition.
-
-4. **Text-to-Speech Integration**:
-   - Using pretraining llm for hugging,  .
-   - Convert text into speech using gTTS or Pyttsx3.
-
-5. **App Deployment**:
-   - Build a user-friendly interface using Flask.
-   - Enable real-time classification and output.
-
----
 
 ## 📊 System Workflow
 
