@@ -6,6 +6,9 @@ https://docs.google.com/document/d/1ewkkNGxOKf1M2MNxaz6vd0o2AKppRD_v_z_kCHBdar4/
 **Our Presentation Page**! 🐍: 
 https://willsnaketaka.github.io/CVProject/
 
+**Our Prototype Links**! 🐍: 
+https://hiworld-npd0.onrender.com/
+
 ---
 
 ## 📖 Overview
