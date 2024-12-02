@@ -56,7 +56,7 @@ Create virtual environment in the cloned repository folder:
 python -m venv .app.py
 
 
-## 📊 System Workflow
+## 📊 General FlowChart
 
 ```mermaid
 graph TD;
@@ -70,10 +70,11 @@ graph TD;
 
 ```mermaid
 graph TD;
-    A[import Libraries] --> B[((Retrival)];
-    B --> C[MediaPipe: Hand Detection];
-    C --> D[TensorFlow: Gesture Classification];
-    D --> E[Output: Text & Speech];
+    A[import Libraries] --> B[Data Loading];
+    B --> C[Preprocess Input Test];
+    C --> D[Pass Data to Speech, convert to H5 files];
+    D --> E[Generate Speech Audio];
+    E --> F[Modify and Save Audio Files];
 ```
 
 
