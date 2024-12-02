@@ -3,6 +3,9 @@
 **Our Designing Document Here**! 🚀 :
 https://docs.google.com/document/d/1ewkkNGxOKf1M2MNxaz6vd0o2AKppRD_v_z_kCHBdar4/edit?usp=sharing
 
+**Our Presentation Page**! 🐍: 
+https://willsnaketaka.github.io/CVProject/
+
 ---
 
 ## 📖 Overview
