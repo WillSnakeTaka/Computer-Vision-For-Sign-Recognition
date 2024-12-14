@@ -7,7 +7,7 @@
 [Our Designing Slides](https://docs.google.com/presentation/d/1apgiMdiOk90Omo3D5VQVxDHyRXxKAYF82B6d1-4a9zY/edit?usp=sharing)
 
 **Our Presentation Page**! 🐍: 
-[Visit Our Presentation Page](https://willsnaketaka.github.io/CVProject/)
+[Visit Our Presentation Page](https://willsnaketaka.github.io/CTP_Presentation_Poorman-s_Version/)
 
 **Our Prototype Link**! 🐍: 
 [Visit Hugging face repo)](https://huggingface.co/spaces/curryporkchop/ASLGestureApp)
