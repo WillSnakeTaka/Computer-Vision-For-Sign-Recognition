@@ -13,7 +13,8 @@
 [Visit Hugging face repo)](https://huggingface.co/spaces/curryporkchop/ASLGestureApp)
 
 **Our Youtube Presentation Link**! 🐍: 
-[Visit out youtube presentation](https://youtu.be/L_AO-OxuEeA)
+[![New Video Thumbnail](https://img.youtube.com/vi/L_AO-OxuEeA/0.jpg)](https://youtu.be/L_AO-OxuEeA)
+
 
 ---
 
