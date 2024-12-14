@@ -9,8 +9,11 @@
 **Our Presentation Page**! 🐍: 
 [Visit Our Presentation Page](https://willsnaketaka.github.io/CVProject/)
 
-**Our Prototype Links**! 🐍: 
+**Our Prototype Link**! 🐍: 
 [Visit Hugging face repo)](https://huggingface.co/spaces/curryporkchop/ASLGestureApp)
+
+**Our Youtube Presentation Link**! 🐍: 
+[Visit out youtube presentation](https://youtu.be/L_AO-OxuEeA)
 
 ---
 
