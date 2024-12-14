@@ -10,7 +10,7 @@
 [Visit Our Presentation Page](https://willsnaketaka.github.io/CVProject/)
 
 **Our Prototype Links**! 🐍: 
-[Visit Rendor App site(please wait 50s~2 min sometimes)]([https://huggingface.co/spaces/curryporkchop/ASLGestureApp])
+[Visit Hugging face repo)]([https://huggingface.co/spaces/curryporkchop/ASLGestureApp])
 
 ---
 
