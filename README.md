@@ -4,7 +4,7 @@
 [Our Initial Document](https://docs.google.com/document/d/1ewkkNGxOKf1M2MNxaz6vd0o2AKppRD_v_z_kCHBdar4/edit?usp=sharing)
 
 **Our Designing Slides**! 🚀 :
-[Our Designing Slides]([https://docs.google.com/presentation/d/1MOtKP2zI5kDGGBeDvilu9bcTXAqjaKEs/edit#slide=id.p1](https://docs.google.com/presentation/d/1apgiMdiOk90Omo3D5VQVxDHyRXxKAYF82B6d1-4a9zY/edit?usp=sharing)
+[Our Designing Slides](https://docs.google.com/presentation/d/1apgiMdiOk90Omo3D5VQVxDHyRXxKAYF82B6d1-4a9zY/edit?usp=sharing)
 
 **Our Presentation Page**! 🐍: 
 [Visit Our Presentation Page](https://willsnaketaka.github.io/CVProject/)
